@@ -1,2 +1,6 @@
 # Car-Parking-Management
-If you want the codes for evaluation e-mail a request to : subhu990@hotmail.com
+
+Need codes for study purpose ?
+Drop a mail for the same to : subhu990@gmail.com
+Sorry ! Codes are not open-source anymore
+:-(
