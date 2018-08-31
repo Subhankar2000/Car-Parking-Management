@@ -1,2 +1,2 @@
 # Car-Parking-Management
-This repository contains the sketches of the two arduinos used in a prototype , simulating car parking management
+If you want the codes for evaluation e-mail a request to : subhu990@hotmail.com
